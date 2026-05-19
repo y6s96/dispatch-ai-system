@@ -1,0 +1,5 @@
+Model,MAE,R2 Score
+Linear Regression,0.0,1.0
+Decision Tree,0.636,0.997
+Random Forest,0.234,1.0
+XGBoost,0.162,1.0
